@@ -1,6 +1,6 @@
 # Ethics in AI Repository
 
-Welcome to the Ethics in AI repository! This comprehensive guide addresses current flaws in artificial intelligence, proposes solutions, and provides educational insights for responsible AI development.
+Welcome to the Ethics in AI repository! This comprehensive guide addresses current flaws in artificial intelligence, proposes solutions, and provides educational insights for responsible AI development. the ethical conflicts that artificial intelligence have not been raised and they are yet to be solved, we must act now!
 
 ## Contents
 
